@@ -107,18 +107,6 @@
   </a>
 </p>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=humayun167&show_icons=true&locale=en&layout=compact"
-    alt="humayun167"
-  />
-</p>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=humayun167&show_icons=true&locale=en"
-    alt="humayun167"
-  />
-</p>
+
+
