@@ -12,7 +12,7 @@
 <p align="left">
   
   
-  <a href="https://fb.com/tufayalkhan7" target="blank"
+  <a href="https://www.facebook.com/share/18ggzsAmFS/?mibextid=wwXIfr" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
